@@ -6,7 +6,7 @@ An interactive web application that demonstrates the working of a **Coffee Vendi
 
 ## 🚀 Live Demo
 
-
+https://ashumulik06.github.io/brew-automaton/
 
 ---
 
